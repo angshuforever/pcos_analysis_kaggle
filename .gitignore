@@ -63,7 +63,7 @@ cmake-build-*/
 .idea/uiDesigner.xml
 
 # Data files
-*.csv
+#*.csv
 *.dat
 *.db
 *.sqlite3
